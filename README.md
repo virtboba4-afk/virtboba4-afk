@@ -1,7 +1,6 @@
 ## Java Backend Developer
 
-Пишу веб-приложения и микросервисы на Java и Spring. Сейчас занимаюсь безопасностью веб-приложений: OAuth 2.0, OIDC и BFF с сессионной кукой вместо токена в браузере.
-
+Пишу веб-приложения и микросервисы на Java и Spring. 
 **Стек:** Java, Spring Boot, Spring Security, Spring Cloud Gateway, Spring Data JPA, Hibernate, PostgreSQL, Redis, RabbitMQ, gRPC, Keycloak, Docker, OpenTelemetry, Prometheus, Grafana
 
 ### Проекты
