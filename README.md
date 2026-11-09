@@ -7,5 +7,4 @@
 ### Проекты
 
 - [AnonimChat](https://github.com/virtboba4-afk/AnonimChatProject): микросервисный чат с BFF, Keycloak, RabbitMQ, gRPC, трассировкой и метриками
-- [Сервис справочников НСИ](https://github.com/virtboba4-afk/aircraft-reference-service): REST API с версиями справочников, согласованием по ролям и идемпотентностью запросов
 - [RecipeHub](https://github.com/virtboba4-afk/RecipeHub): сайт рецептов на Spring MVC и Spring Security
